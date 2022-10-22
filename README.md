@@ -9,7 +9,8 @@ This server can be uses with my android app (https://github.com/mikhail-moro/sim
 
 Server accepts GET-requests with two params that contains data of time period of classes.
 
-```http
+Example with local server
+```
   http://localhost:3000/?start_time=2022-09-01T00:00:00&end_time=2022-10-30T00:00:00
 ```
 

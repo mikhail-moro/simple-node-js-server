@@ -3,7 +3,7 @@
 #### Simple nodeJS server that parses data.json file and returns parsed data as response to GET-request with time period in params.
 
 
-__This server can be uses with my android app (https://github.com/mikhail-moro/simple-classes-shedule-android-app).__
+_This server can be uses with my android app (https://github.com/mikhail-moro/simple-classes-shedule-android-app)._
 
 
 ### Request
